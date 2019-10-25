@@ -9,4 +9,9 @@ let r = []
 for (let i= 0; i < scr.length, i++)
  let element  = src[i]
  r.push(cb(e))
+
 }
+
+return r 
+} 
+
