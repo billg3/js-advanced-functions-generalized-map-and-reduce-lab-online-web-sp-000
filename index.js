@@ -17,10 +17,4 @@ return r
 
 
 
-
-
-
-
-
-
-function 
+function reduce (src, cb, starting)
