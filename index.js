@@ -1,10 +1,11 @@
 // Add your functions here
 
 
-function map (){
+function map (src, cb){
 
 let r = []
 
 
+for (let i= 0; i < scr.length, i++)
 
 }
