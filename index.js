@@ -7,5 +7,5 @@ let r = []
 
 
 for (let i= 0; i < scr.length, i++)
-
+ let e = src[i]
 }
