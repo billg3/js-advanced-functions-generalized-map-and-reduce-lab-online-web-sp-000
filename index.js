@@ -12,6 +12,5 @@ for (let i= 0; i < scr.length, i++)
 
 }
 
-return r 
-} 
-
+return r
+}
